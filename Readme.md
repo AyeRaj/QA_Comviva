@@ -224,4 +224,5 @@ public class EmailValidatorTest {
 
 Now Perform,
 > JUnit testing as `Right Click on Project`>`Run As`>`JUnit Test`
+
 > Code Coverage as `Right Click on Project`>`Coverage As`>`JUnit Test`
