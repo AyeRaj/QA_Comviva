@@ -1,4 +1,4 @@
-### Test Case File Sample
+### Test Case File
 
 | Test Case ID    | Test Case Descriptions     | Test Steps        | Test Data | Expected Result | Actual Result | Pass/Fail |
 | :-------------- | :------------------------- | :---------------- | :-------- | :-------------- | :------------ | :-------- |
