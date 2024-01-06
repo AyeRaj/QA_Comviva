@@ -1,3 +1,4 @@
+<p  align="right"><img src="https://visitor-badge.laobi.icu/badge?page_id=QA_Comviva" alt="Visitor badge"/>
 
 # <p align="center">Setting up Eclipse and JUnit testing dependencies</p>
 
